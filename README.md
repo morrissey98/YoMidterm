@@ -26,6 +26,14 @@ ooga booga
 
 ![ForgotPasswordScreen](ForgotPasswordScreen.png "Forgot Password Screen")
 
+![HomeScreen](HomeScreen.png "Home Screen")
+
+![Select Yo](SelectYo.png "Select Yo")
+
+![Sent Yo](SentYo.png "Sent Yo")
+
+![EditProfile](EditProfile.png "Edit Profile")
+
 ![Settings](Settings.png "Settings")
 
 ![Add Yo](AddYo.png "Add Yo")
